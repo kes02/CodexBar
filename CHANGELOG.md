@@ -4,6 +4,7 @@
 
 ### Added
 - Widgets: make Kimi available with Weekly, Rate Limit, and Monthly quota rows. Thanks @joeVenner!
+- Claude: distinguish Max 5x and Max 20x in the plan label instead of a flat "Max".
 
 ### Fixed
 - Codex menu: hide error-only optional Credits and OpenAI web setup diagnostics while keeping them visible in provider Settings.
